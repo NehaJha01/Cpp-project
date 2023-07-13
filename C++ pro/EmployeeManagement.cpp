@@ -10,7 +10,6 @@ int total = 0; // to store all data
 void enter()
 
 {
-
     int ch = 0;
 
     cout << "How Many Employees' Data Do You Want to Enter?" << endl;
